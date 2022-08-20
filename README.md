@@ -1,5 +1,5 @@
 <h1 align="center">Hey there..! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="35" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm 𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</h1>
-<h3 align="center"><em>Learn..! Innovate..!</em></h3></br>
+<h2 align="center"><em>Learn..! Innovate..!</em></h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
@@ -24,4 +24,4 @@
 
 </p>
 
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" height="400" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
