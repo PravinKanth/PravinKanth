@@ -1,9 +1,9 @@
 <h1 align="center">Hey there..! 👋  I'm 𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</h1>
-<h3 align="center"><strong>Learn..! Innovate..!</strong></h3></br>
+<h3 align="center"><em>Learn..! Innovate..!</em></h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
-- 💬 Ask me about **Python,HTML,CSS,ReactJS,Figma**
+- 👨‍🎓 Pursuing III BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
 
 - 📫 Reach Me at **r.pravinkanth653@gmail.com**
 
