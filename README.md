@@ -1,5 +1,5 @@
 <h1 align="left">Hey there..! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="35" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
-<h2> I'm <b><b>𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b></b>, an adamant</h2>
+<h2> I'm <b><b>𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b></b>, a go-getter</h2>
 <h2 align="left"><em>Learn..! Innovate..!</em></h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
