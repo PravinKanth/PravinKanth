@@ -9,7 +9,7 @@
 - 🔭 Building up my 𝗙𝗢𝗢𝗗𝗖𝗛𝗘𝗙
 
 - 📄 Check out my Resume [Here](https://drive.google.com/file/d/1hM69WeIFXGzFLmCA5sKrEvBeKP2isOCg/view?usp=share_link)
-  <img style="float:right; right:40px; top:0px; width: 60%; display: inline-block;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="70%" data-target="animated-image.originalImage">
+  <img style="float:right; right:40px; top:0px; width: 60%; display: inline;" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="70%" data-target="animated-image.originalImage">
   </br><br>
 
 <h3 align="left" ><b>SKILLS & TECHNOLOGIES</b></h3></br>
