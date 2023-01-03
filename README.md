@@ -34,4 +34,4 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=PravinKanth&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkanth&layout=compact"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkanth&layout=compact"/> 
