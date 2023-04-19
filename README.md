@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Pursuing III BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
 
-- 🔭 Building up my 𝗙𝗢𝗢𝗗𝗖𝗛𝗘𝗙
+- 🔭 Building up my **BullSight**
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
 
 - 📄 Check out my Resume [Here](https://drive.google.com/file/d/1Xsfs6r3O5Bn_gWsZ9caWLH6F_gBzeRvM/view?usp=share_link)
