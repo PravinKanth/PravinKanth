@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
-- 👨‍🎓 Pursuing III BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
+- 👨‍🎓 Pursuing IV BE CSE at 𝗞𝗣𝗥𝗜𝗘𝗧
 
 - 🔭 Building up my **BullSight**
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="40%" data-target="animated-image.originalImage">
