@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm <b><<b style="color:#6CBEE7 ;">𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b>/ > ! </b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <!-- <h1> I'm <b><b>𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b></b>, an adamant</h1> -->
-<h2 align="Center">Full-Stack Developer</h2></br>
+<h2 align="Center">FULL-STACK DEVELOPER</h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
