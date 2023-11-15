@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm <b><<b style="color:#6CBEE7 ;">𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b>/ > ! </b><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" height="25" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <!-- <h1> I'm <b><b>𝗣𝗿𝗮𝘃𝗶𝗻 𝗞𝗮𝗻𝘁𝗵</b></b>, an adamant</h1> -->
-<h2 align="Center">FULL-STACK DEVELOPER</h2></br>
+<h2 align="Center">Freelance Full-Stack Developer</h2></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkanth&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkanth" /> </p>
 
@@ -27,9 +27,9 @@
 <h3 align="left" ><b>CONNECT WITH ME</b></h3></br>
 <p align="left">
 &nbsp;&nbsp;<a href="mailto:r.pravinkanth653@gmail.com" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="pravin-kanth" height="20" width="25" /></a>
-<a href="https://www.linkedin.com/in/pravin-kanth-a71755205/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-kanth" height="24" width="60" style="padding-bottom:4px;" /></a>
+<a href="https://www.linkedin.com/in/pravin-kanth/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravin-kanth" height="24" width="60" style="padding-bottom:4px;" /></a>
 <a href="https://www.youtube.com/channel/UCQBBrTP7juUvB5ElTlUR-6w" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mcpyon" height="30" width="30" style="padding-top:2px;" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/p._.kanth.__.03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p._.kanth.__.03" height="23" width="30" /></a>
+<a href="https://instagram.com/p._.kanth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p._.kanth.__.03" height="23" width="30" /></a>
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkanth&layout=compact"/> -->
 
